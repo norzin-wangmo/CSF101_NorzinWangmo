@@ -1,1 +1,1 @@
-# CSF101_NorzinWangmo
+print ("Hello world")
