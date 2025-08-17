@@ -1,0 +1,14 @@
+# This pseudocode finds the largest of three numbers.
+# It takes three numbers as input and outputs
+# the largest of the three numbers.
+# by comparing each number with the others.
+INPUT num1
+INPUT num2
+INPUT num3
+IF num1 > num2 AND num1 > num3 THEN
+    OUTPUT "The largest number is: " + num1
+ELSE IF num2 > num1 AND num2 > num3 THEN
+    OUTPUT "The largest number is: " + num2
+ELSE
+    OUTPUT "The largest number is: " + num3
+ENDIF

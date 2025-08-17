@@ -1,0 +1,10 @@
+# This pseudocode checks if a number is even or odd.
+# It takes a number as input and outputs 
+# whether the number is even or odd.
+# by checking the remainder when divided by 2.
+INPUT number
+IF number MOD 2 = 0 THEN
+    OUTPUT "The number is even."
+ELSE
+    OUTPUT "The number is odd."
+ENDIF
