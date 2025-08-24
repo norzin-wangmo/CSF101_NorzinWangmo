@@ -1,0 +1,9 @@
+# This Pseudocode helps turn celsius into Fahrenheit
+# by asking input from the user
+# and then using the formula to convert it
+# and then printing the result
+START
+   READ Celsius
+   Fahrenheit = (Celsius * 1.8) + 32
+   PRINT Fahrenheit
+END
