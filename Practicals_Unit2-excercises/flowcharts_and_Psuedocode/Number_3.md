@@ -1,6 +1,6 @@
 # Convert Celsius to Fahrenheit
-
-![Celsius to Fahrenheit Flowchart](Number_3.jpg)
+## Flowchart :
+![Celsius to Fahrenheit Flowchart](Number_3.JPG)
 
 This is a simple algorithm to convert a temperature from Celsius to Fahrenheit. The algorithm is written in pseudocode and is intended to be easy to understand and follow.
 

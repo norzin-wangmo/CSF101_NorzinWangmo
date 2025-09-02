@@ -1,6 +1,6 @@
 # Calculate the Area of a Rectangle
-
-![Area of Rectangle Flowchart](Number_1.jpg)
+## Flowchart :
+![Area of Rectangle Flowchart](Number_1.JPG)
 
 This is a simple algorithm to calculate the area of a rectangle, given its length and width. The algorithm is written in pseudocode and is intended to be easy to understand and follow.
 
