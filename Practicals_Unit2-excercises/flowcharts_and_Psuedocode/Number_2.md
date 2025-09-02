@@ -1,6 +1,6 @@
 # Check if a Number is Even or Odd
 
-![Even or Odd Flowchart](number_2.jpg)
+!Number_2.jpg)
 
 This is a simple algorithm to check if a number is even or odd. The algorithm is written in pseudocode and is intended to be easy to understand and follow.
 
