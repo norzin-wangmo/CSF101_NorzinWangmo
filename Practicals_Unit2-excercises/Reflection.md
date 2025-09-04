@@ -100,6 +100,40 @@ forgot to do so during that moment and sincerely spologize for that and promise 
 
 ---
 
+## 7. Iterative Approach
+### What I Learned
+- Learned how to solve problems using iterative methods, especially for calculating Fibonacci numbers.
+- Understood the use of loops to repeatedly perform calculations and update variables.
+- Practiced writing clean and efficient iterative code in Python.
+
+### Challenges Faced
+- Sometimes I made mistakes in updating variables inside the loop, which led to incorrect results.
+- It was tricky to keep track of the values of variables after each iteration.
+
+### How I Overcame Them
+- I used print statements to check the values of variables at each step.
+- By practicing with different examples, I became more confident in writing and debugging iterative code.
+
+---
+
+## 8. Recursion
+### What I Learned
+- Learned how to write recursive functions in Python.
+- Understood the concept of a function calling itself and the importance of base cases.
+- Practiced solving problems like calculating factorial and Fibonacci numbers using recursion.
+
+### Challenges Faced
+- At first, I found it confusing to trace how recursive calls work and where they stop.
+- Sometimes I forgot to include a proper base case, which led to infinite recursion and errors.
+- It was difficult to visualize the flow of recursive calls and returns.
+
+### How I Overcame Them
+- I drew diagrams to help me understand how each recursive call works and returns.
+- I wrote simple recursive functions and added print statements to see the order of execution.
+- By practicing with different problems, I became more comfortable with identifying base cases and writing correct recursive logic.
+
+---
+
 ## Overall Reflection
 This unit helped me build a strong foundation in Python programming. Each topic connected to the next, making it easier to understand bigger problems. At times I felt challenged, especially with loops and functions, but by practicing step by step, I improved my logical thinking and coding skills.
 
