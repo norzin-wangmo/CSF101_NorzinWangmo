@@ -3,17 +3,18 @@ class ListNode:
         self.val = val
         self.next = next
 
-def removeNthFromEnd(head, n):
-    dummy = ListNode(0)
-    dummy.next = head
-    fast = slow = dummy
-    for _ in range(n):
-        fast = fast.next
-    while fast.next:
-        fast = fast.next
-        slow = slow.next
-    slow.next = slow.next.next
-    return dummy.next
+class Solution:
+    def removeNthFromEnd(self, head, n):
+        dummy = ListNode(0)
+        dummy.next = head
+        fast = slow = dummy
+        for _ in range(n):
+            fast = fast.next
+        while fast.next:
+            fast = fast.next
+            slow = slow.next
+        slow.next = slow.next.next
+        return dummy.next
 
 # Helper function to create a linked list from a list
 def create_linked_list(lst):
@@ -33,5 +34,5 @@ def linked_list_to_list(head):
 # Example usage:
 if __name__ == "__main__":
     head = create_linked_list([1,2,3,4,5])
-    new_head = removeNthFromEnd(head, 2)
+    new_head = Solution().removeNthFromEnd(head, 2)
     print(linked_list_to_list(new_head))  # Output: [1, 2, 3, 5]
