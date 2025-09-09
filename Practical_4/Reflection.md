@@ -25,6 +25,33 @@ This file contains my reflections on the topics covered in the Practical 4 folde
 
 ---
 
+## 2. Leet Code Problems
+### 2.1 Merging Lists
+#### What I Learned
+- Learned how to merge two sorted linked lists into one sorted list using pointer manipulation.
+#### Challenges Faced
+- Needed to carefully update pointers to avoid losing nodes and ensure the merged list was sorted.
+#### How I Overcame Them
+- Used a dummy node and helper functions to test and debug the merging process.
+
+### 2.2 Removing Nth Node from End
+#### What I Learned
+- Learned how to remove the nth node from the end of a linked list using two-pointer technique.
+#### Challenges Faced
+- Found it tricky to handle edge cases, such as removing the head or last node.
+#### How I Overcame Them
+- Practiced with different test cases and used a dummy node to simplify pointer updates.
+
+### 2.3 Reverse Linked List (LeetCode)
+#### What I Learned
+- Reinforced my understanding of reversing a linked list by iteratively updating pointers.
+#### Challenges Faced
+- Needed to ensure all pointers were updated correctly to avoid breaking the list.
+#### How I Overcame Them
+- Used helper functions and step-by-step debugging to verify the reversal process.
+
+---
+
 ##  Overall Reflection
 Practical 4 helped me understand linked lists and how to manipulate them. By implementing and reversing lists, I improved my understanding of pointers and data structures.
 
